@@ -8,7 +8,7 @@ sites:
   - name: Drinks&Co IT
     url: https://www.drinksco.it
     
- assignees:
+assignees:
   - p0lemic
 
 status-website:
